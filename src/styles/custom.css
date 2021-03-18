@@ -199,6 +199,13 @@
     footer {
         display: none;
     }
+    /* Home */
+    .intro-name {
+        font-size: 70px;
+    }
+    .intro-description {
+        font-size: 14px;
+    }
     /* About */
     .content-two {
         flex-direction: column;
