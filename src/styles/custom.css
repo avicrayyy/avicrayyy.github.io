@@ -1,0 +1,141 @@
+.loading-bar {
+    height: 5px;
+    width: 100%;
+    background: rgb(51,164,227);
+    background: linear-gradient(90deg, rgba(51,164,227,1) 0%, rgba(89,114,205,1) 100%);
+}
+
+.contact-button {
+    border: 3px solid linear-gradient(90deg, rgba(51,164,227,1) 0%, rgba(89,114,205,1) 100%);
+    background: -webkit-linear-gradient(right, rgba(51,164,227,1), rgba(89,114,205,1) 100%);
+    background: -webkit-linear-gradient(left, rgba(51,164,227,1), rgba(89,114,205,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.border-gradient {
+    border: 10px solid;
+    border-image-slice: 1;
+    border-width: 3px;
+    
+}
+.border-gradient-contact {
+    border-image-source: -webkit-linear-gradient(right, rgba(51,164,227,1), rgba(89,114,205,1) 100%);
+}
+
+.bottom-button {
+    background: -webkit-linear-gradient(right, rgba(51,164,227,1), rgba(89,114,205,1) 100%);
+    background: -webkit-linear-gradient(left, rgba(51,164,227,1), rgba(89,114,205,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.bottom-button:hover{
+    border-bottom: 3px solid #33A4E3;
+}
+
+.intro-name {
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #eee;
+    font-size: 144px;
+}
+
+.intro-description {
+    font-style: italic;
+    font-size: 24px;
+    font-weight: 300;
+    margin: 0;
+}
+
+.highlight {
+    color: #33A4E3;
+    font-style: normal;
+}
+
+.btn {
+    flex: 1 1 auto;
+    margin: 12px 0;
+    padding: 15px 40px;
+    border: 0;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    font-weight: 700;
+    border-radius: 40px;
+    width: max-content;
+    font-size: 11px;
+}
+
+.btn:hover {
+    background-position: right center; /* change the direction of the change here */
+}
+  
+.btn-form {
+    background-image: -webkit-linear-gradient(left, rgba(51,164,227,1), rgba(89,114,205,1) 100%);
+}
+
+.left {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 90px 0 0px;
+    border-right: 1px solid #343434;
+}
+
+.right {
+    padding: 20px 40px;
+    width: 50%;
+    display: block;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.right-overflow {
+    overflow: auto;
+    display: block!important;
+    height: calc(100vh - 225px);
+}
+
+.content-two{
+    width: 100%;
+    display: flex;
+}
+
+.tag-group {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tag {
+    border: 1px solid #343434;
+    font-size: 10px;
+    padding: 6px;
+    border-radius: 20px;
+    margin: 0 6px 6px 0;
+}
+
+.progress-group {
+    justify-content: space-between;
+    display: flex;
+}
+
+.csun {
+    color: #D72C3D;
+}
+
+.ust {
+    color: #FECD04;
+}
+
+.gsa {
+    color: #33A4E3;
+}
