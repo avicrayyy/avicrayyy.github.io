@@ -1,13 +1,13 @@
 import React from "react"
 import Layout from "../../components/Layout"
 
-export default function Project2() {
+export default function Project1() {
   return (
     <Layout>
       <div className="projects-containter" style={{ flexDirection: "column" }}>
         <div>
           <h2 className="header-title" style={{ marginBottom: 0 }}>
-            FCN Medical &amp; Vaccination Clinic
+            Fuse Design Group
           </h2>
           <p style={{ marginTop: 0 }}>Company Website</p>
           <div className="tag-group">
@@ -32,35 +32,20 @@ export default function Project2() {
           </div>
         </div>
         <div class="project-img">
-          <img src="/fcn-main.png" alt="project-01" width="100%" />
+          <img src="/fuse-mockup.png" alt="project-01" width="100%" />
         </div>
         <div>
+          <p>Fuse Design Group is a San-Francisco, CA-based Design Agency.</p>
           <p>
-            FCN Medical &amp; Vaccination Clinic is a clinic in Ermita, Manila
-            specializing in Travel Vaccination.
-          </p>
-          <p>
-            At FCN Medical and Vaccination Center, they handle immunization
-            requirements of land-based OFWs and seafarers to Asia, Middle East,
-            and Africa and other parts of the globe.
-          </p>
-          <p>
-            My involvement in the project is the re-design and development [from
-            ground-up] of the company's new website.
-          </p>
-          <p style={{ marginBottom: 40 }}>
-            See website:{" "}
-            <a
-              href="http://fcnvaccination.com/"
-              target="_blank"
-              className="project-link"
-            >
-              http://fcnvaccination.com/
-            </a>
+            My involvement in the project is the development of the website from
+            ground-up using HTML, CSS, JavaScript, jQuery, and PHP.
           </p>
         </div>
         <div class="project-img">
-          <img src="/fcn-wire.png" alt="project-01" width="100%" />
+          <img src="/fuse-iphone-mockup.png" alt="project-01" width="100%" />
+        </div>
+        <div class="project-img">
+          <img src="/fuse-mock.png" alt="project-01" width="100%" />
         </div>
       </div>
     </Layout>

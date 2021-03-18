@@ -163,22 +163,30 @@ export default function Projects() {
             </td>
           </tr>
           <tr>
-            <td>07</td>
-            <td>Fuse Design Group</td>
-            <td>Company Website</td>
             <td>
-              <img
-                src="/Toolbox.png"
-                alt="profile-picture"
-                width="21px"
-                style={{ marginRight: 12 }}
-              />
-              <img
-                src="/Vector-1.png"
-                alt="profile-picture"
-                width="21px"
-                style={{ marginRight: 12 }}
-              />
+              <Link to="/projects/project7">07</Link>
+            </td>
+            <td>
+              <Link to="/projects/project7">Fuse Design Group</Link>
+            </td>
+            <td>
+              <Link to="/projects/project7">Company Website</Link>
+            </td>
+            <td>
+              <Link to="/projects/project7">
+                <img
+                  src="/Toolbox.png"
+                  alt="profile-picture"
+                  width="21px"
+                  style={{ marginRight: 12 }}
+                />
+                <img
+                  src="/Vector-1.png"
+                  alt="profile-picture"
+                  width="21px"
+                  style={{ marginRight: 12 }}
+                />
+              </Link>
             </td>
           </tr>
           <tr>
