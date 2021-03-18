@@ -145,10 +145,16 @@
     display: flex;
     padding: 20px;
     margin-bottom: 12px;
+    align-items: center;
+    justify-content: space-around;
 }
 
 .project-item:hover {
     background-color: #434343;
+}
+
+.project-item p {
+    margin: 0!important;
 }
 
 .projects-containter {
@@ -156,4 +162,18 @@
     display: block!important;
     height: calc(100vh - 225px);
     width: 100%;
+}
+
+.img-grp {
+    align-items: center;
+    display: flex;      
+}
+
+.header-title {
+    background: -webkit-linear-gradient(right, rgba(51,164,227,1), rgba(89,114,205,1) 100%);
+    background: -webkit-linear-gradient(left, rgba(51,164,227,1), rgba(89,114,205,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    padding-bottom: 5px;
 }

@@ -84,3 +84,13 @@ footer {
     right: 0;
     top: 45%;
 }
+
+tr {
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: #343434;
+}
+
+td {
+    padding: 20px;
+}
