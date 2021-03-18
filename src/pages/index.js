@@ -9,7 +9,7 @@ export default function Home() {
         className="intro-container"
       >
         <div>
-          <p>
+          <p className="intro-short">
             hi, i'm <i className="highlight">david</i>
             <br /> and i...
           </p>

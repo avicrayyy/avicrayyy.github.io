@@ -200,11 +200,15 @@
         display: none;
     }
     /* Home */
+    .intro-short {
+        font-size: 12px;
+        margin: 0;
+    }
     .intro-container {
         flex-direction: column;
     }
     .intro-name {
-        font-size: 70px;
+        font-size: 60px;
     }
     .intro-description {
         font-size: 14px;
