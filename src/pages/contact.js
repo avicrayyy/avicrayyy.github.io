@@ -6,7 +6,12 @@ export default function Contact() {
     <Layout>
       <div className="content-two">
         <div className="left">
-          <img src="/lets-talk-phone.png" alt="logo" width="350px" className="contact-img"/>
+          <img
+            src="/lets-talk-phone.png"
+            alt="logo"
+            width="350px"
+            className="contact-img"
+          />
         </div>
         <div className="right right-overflow">
           <div className="">
@@ -23,17 +28,19 @@ export default function Contact() {
             <form
               style={{ display: "flex", flexDirection: "column" }}
               method="post"
-              action="https://formspree.io/email@domain.tld"
+              action="https://formspree.io/f/mnqoeklz"
             >
               <label>Email</label>
               <input type="email" name="_replyto" />
               <label>Name</label>
-              <input type="text" name="_replyto" />
+              <input type="text" name="name" />
               <label>Subject</label>
-              <input type="text" name="_replyto" />
+              <input type="text" name="subject" />
               <label>Body</label>
-              <textarea type="text" name="_replyto" />
-              <button className="btn btn-form">SUBMIT</button>
+              <textarea type="text" name="body" />
+              <button className="btn btn-form" type="submit">
+                SUBMIT
+              </button>
             </form>
           </div>
         </div>

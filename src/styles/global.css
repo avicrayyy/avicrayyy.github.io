@@ -62,6 +62,8 @@ textarea {
     background-color: #343434;
     border-radius: 5px;
     border: 0;
+    font-size: 12px;
+    padding: 10px;
 }
 
 progress::-moz-progress-bar { background: #4BBD38; }
