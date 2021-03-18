@@ -218,4 +218,8 @@
     .center-warn {
         display: none;
     }
+    /* Projects */
+    .projects-containter {
+        height: inherit;
+    }
 }
