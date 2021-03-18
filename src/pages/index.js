@@ -4,7 +4,10 @@ import Layout from "../components/Layout"
 export default function Home() {
   return (
     <Layout>
-      <div style={{ display: "flex", zIndex: 2, marginTop: 250 }}>
+      <div
+        style={{ display: "flex", zIndex: 2, marginTop: 250 }}
+        className="intro-container"
+      >
         <div>
           <p>
             hi, i'm <i className="highlight">david</i>

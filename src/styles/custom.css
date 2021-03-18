@@ -200,6 +200,9 @@
         display: none;
     }
     /* Home */
+    .intro-container {
+        flex-direction: column;
+    }
     .intro-name {
         font-size: 70px;
     }
