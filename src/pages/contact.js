@@ -6,7 +6,7 @@ export default function Contact() {
     <Layout>
       <div className="content-two">
         <div className="left">
-          <img src="/lets-talk-phone.png" alt="logo" width="350px" />
+          <img src="/lets-talk-phone.png" alt="logo" width="350px" className="contact-img"/>
         </div>
         <div className="right right-overflow">
           <div className="">

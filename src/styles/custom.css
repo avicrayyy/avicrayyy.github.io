@@ -183,7 +183,7 @@
         max-width: 100%;
         overflow-x: hidden;
     }
-    
+
     .content {
         min-height: calc(100vh - 180px);
         display: flex;
@@ -205,5 +205,12 @@
     .right {
         padding: 50px 0;
         width: 100%;
+    }
+    /* Contact */
+    .contact-img {
+        max-width: 80%;
+    }
+    .right-overflow {
+
     }
 }
