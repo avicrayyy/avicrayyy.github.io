@@ -5,11 +5,8 @@ export default function Projects() {
   return (
     <Layout>
       <div className="projects-containter" style={{ flexDirection: "column" }}>
-        <div>Projects</div>
-        <div className="project-item">
-          <p>01</p>
-          <p>Project Title</p>
-          <p>Project Description</p>
+        <div>
+          <h2 className="bottom-button">Projects</h2>
         </div>
         <div className="project-item">
           <p>01</p>
@@ -17,12 +14,37 @@ export default function Projects() {
           <p>Project Description</p>
         </div>
         <div className="project-item">
-          <p>01</p>
+          <p>02</p>
           <p>Project Title</p>
           <p>Project Description</p>
         </div>
         <div className="project-item">
-          <p>01</p>
+          <p>03</p>
+          <p>Project Title</p>
+          <p>Project Description</p>
+        </div>
+        <div className="project-item">
+          <p>04</p>
+          <p>Project Title</p>
+          <p>Project Description</p>
+        </div>
+        <div className="project-item">
+          <p>05</p>
+          <p>Project Title</p>
+          <p>Project Description</p>
+        </div>
+        <div className="project-item">
+          <p>06</p>
+          <p>Project Title</p>
+          <p>Project Description</p>
+        </div>
+        <div className="project-item">
+          <p>07</p>
+          <p>Project Title</p>
+          <p>Project Description</p>
+        </div>
+        <div className="project-item">
+          <p>08</p>
           <p>Project Title</p>
           <p>Project Description</p>
         </div>

@@ -142,9 +142,13 @@
 
 .project-item {
     background-color: #343434;
-    flex-direction: column;
+    display: flex;
     padding: 20px;
     margin-bottom: 12px;
+}
+
+.project-item:hover {
+    background-color: #434343;
 }
 
 .projects-containter {
