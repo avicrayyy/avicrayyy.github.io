@@ -12,18 +12,18 @@ export default function Projects() {
         <table style={{ width: "100%" }}>
           <tr>
             <td>
-              <Link to="/projects/Project1">01</Link>
+              <Link to="/projects/project1">01</Link>
             </td>
             <td>
-              <Link to="/projects/Project1">
+              <Link to="/projects/project1">
                 Online-Sabong App Admin Console
               </Link>
             </td>
             <td>
-              <Link to="/projects/Project1">UI Design</Link>
+              <Link to="/projects/project1">UI Design</Link>
             </td>
             <td>
-              <Link to="/projects/Project1">
+              <Link to="/projects/project1">
                 <img
                   src="/ToolBox.png"
                   alt="profile-picture"
@@ -40,22 +40,32 @@ export default function Projects() {
             </td>
           </tr>
           <tr>
-            <td>02</td>
-            <td>Clara International Skin &amp; Body</td>
-            <td>Landing Page</td>
             <td>
-              <img
-                src="/Toolbox.png"
-                alt="profile-picture"
-                width="21px"
-                style={{ marginRight: 12 }}
-              />
-              <img
-                src="/Vector-1.png"
-                alt="profile-picture"
-                width="21px"
-                style={{ marginRight: 12 }}
-              />
+              <Link to="/projects/project2">02</Link>
+            </td>
+            <td>
+              <Link to="/projects/project2">
+                Clara International Skin &amp; Body
+              </Link>
+            </td>
+            <td>
+              <Link to="/projects/project2">Landing Page</Link>
+            </td>
+            <td>
+              <Link to="/projects/project2">
+                <img
+                  src="/Toolbox.png"
+                  alt="profile-picture"
+                  width="21px"
+                  style={{ marginRight: 12 }}
+                />
+                <img
+                  src="/Vector-1.png"
+                  alt="profile-picture"
+                  width="21px"
+                  style={{ marginRight: 12 }}
+                />
+              </Link>
             </td>
           </tr>
           <tr>

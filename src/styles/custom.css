@@ -179,6 +179,15 @@
     margin: 40px 0;
 }
 
+.project-link {
+    color: #33A4E3;
+    font-style: italic;
+}
+
+.project-link:hover {
+    text-decoration: underline;
+}
+
 .img-grp {
     align-items: center;
     display: flex;      

@@ -6,8 +6,10 @@ export default function Project1() {
     <Layout>
       <div className="projects-containter" style={{ flexDirection: "column" }}>
         <div>
-          <h2 className="header-title">Online-Sabong App Admin Console</h2>
-          <p>UI Design</p>
+          <h2 className="header-title" style={{ marginBottom: 0 }}>
+            Online-Sabong App Admin Console
+          </h2>
+          <p style={{ marginTop: 0 }}>UI Design</p>
           <div className="tag-group">
             <div className="tag tag-post">
               <img
@@ -43,6 +45,21 @@ export default function Project1() {
             membership allows them to invite members) a gamified experience as
             they manage their commission, wallet, and players.
           </p>
+          <p>Below are sample UI Designs of Admin and Agent Users:</p>
+        </div>
+        <h2>Admin UI</h2>
+        <div class="project-img">
+          <img src="/sabong-1.png" alt="project-01" width="100%" />
+        </div>
+        <div class="project-img">
+          <img src="/sabong-2.png" alt="project-01" width="100%" />
+        </div>
+        <h2>Agent UI</h2>
+        <div class="project-img">
+          <img src="/sabong-5.png" alt="project-01" width="100%" />
+        </div>
+        <div class="project-img">
+          <img src="/sabong-7.png" alt="project-01" width="100%" />
         </div>
       </div>
     </Layout>
