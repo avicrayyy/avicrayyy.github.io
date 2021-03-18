@@ -1,3 +1,4 @@
+import { Link } from "gatsby"
 import React from "react"
 import Layout from "../../components/Layout"
 
@@ -10,22 +11,32 @@ export default function Projects() {
         </div>
         <table style={{ width: "100%" }}>
           <tr>
-            <td>01</td>
-            <td>Cockfighting App Admin Console</td>
-            <td>UI Design</td>
             <td>
-              <img
-                src="/ToolBox.png"
-                alt="profile-picture"
-                width="21px"
-                style={{ marginRight: 12 }}
-              />
-              <img
-                src="/Vector-2.png"
-                alt="profile-picture"
-                width="21px"
-                style={{ marginRight: 12 }}
-              />
+              <Link to="/projects/project1">01</Link>
+            </td>
+            <td>
+              <Link to="/projects/project1">
+                Online-Sabong App Admin Console
+              </Link>
+            </td>
+            <td>
+              <Link to="/projects/project1">UI Design</Link>
+            </td>
+            <td>
+              <Link to="/projects/project1">
+                <img
+                  src="/ToolBox.png"
+                  alt="profile-picture"
+                  width="21px"
+                  style={{ marginRight: 12 }}
+                />
+                <img
+                  src="/Vector-2.png"
+                  alt="profile-picture"
+                  width="21px"
+                  style={{ marginRight: 12 }}
+                />
+              </Link>
             </td>
           </tr>
           <tr>

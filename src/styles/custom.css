@@ -123,6 +123,17 @@
     margin: 0 6px 6px 0;
 }
 
+.tag-post {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 6px 12px;
+}
+
+.tag-post p {
+    margin: 0;
+}
+
 .progress-group {
     justify-content: space-between;
     display: flex;
@@ -162,6 +173,10 @@
     display: block!important;
     height: calc(100vh - 225px);
     width: 100%;
+}
+
+.project-img {
+    margin: 40px 0;
 }
 
 .img-grp {
