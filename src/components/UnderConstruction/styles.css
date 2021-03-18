@@ -1,6 +1,6 @@
 .construction-window {
     border-radius: 10px;
-    border-left: 5px solid #D72C3D!important;
+    border-left: 5px solid #F3AA1A!important;
     font-size: 12px;
     position: absolute;
     top: 12px;
@@ -9,7 +9,7 @@
     border: 1px solid #535353;
 }
 .warning {
-    color: #D72C3D;
+    color: #F3AA1A;
     font-style: normal;
     font-weight: bold;
 }
