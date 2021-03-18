@@ -15,7 +15,7 @@ export default function About() {
                 style={{ borderRadius: 35 }}
               />
               <p style={{ marginBottom: 0 }}>
-                <b>David Domingo</b> <i>aka avi</i>
+                <b>David Domingo</b>
               </p>
               <p style={{ fontSize: 12, marginTop: 0 }}>
                 <b>Software</b> Engineer, <b>Front-End</b> Developer,{" "}
