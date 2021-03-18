@@ -139,3 +139,17 @@
 .gsa {
     color: #33A4E3;
 }
+
+.project-item {
+    background-color: #343434;
+    flex-direction: column;
+    padding: 20px;
+    margin-bottom: 12px;
+}
+
+.projects-containter {
+    overflow: auto;
+    display: block!important;
+    height: calc(100vh - 225px);
+    width: 100%;
+}
