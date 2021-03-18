@@ -82,6 +82,7 @@ export default function Projects() {
                 alt="profile-picture"
                 width="12px"
                 style={{ marginRight: 12 }}
+                className="mobile-ico"
               />
             </td>
           </tr>
@@ -107,6 +108,7 @@ export default function Projects() {
                 alt="profile-picture"
                 width="12px"
                 style={{ marginRight: 12 }}
+                className="mobile-ico"
               />
             </td>
           </tr>
