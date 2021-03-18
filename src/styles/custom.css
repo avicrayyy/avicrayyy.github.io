@@ -227,4 +227,12 @@
     .projects-containter {
         height: inherit;
     }
+    td {
+        padding: 12px;
+        font-size: 12px;
+    }
+    td img {
+        margin: 0!important;
+        width: 14px;
+    }
 }
