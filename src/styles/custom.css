@@ -211,6 +211,8 @@
         max-width: 80%;
     }
     .right-overflow {
-
+        overflow: hidden;
+        display: block!important;
+        height: inherit;
     }
 }
