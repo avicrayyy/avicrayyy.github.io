@@ -12,18 +12,18 @@ export default function Projects() {
         <table style={{ width: "100%" }}>
           <tr>
             <td>
-              <Link to="/projects/project1">01</Link>
+              <Link to="/projects/Project1">01</Link>
             </td>
             <td>
-              <Link to="/projects/project1">
+              <Link to="/projects/Project1">
                 Online-Sabong App Admin Console
               </Link>
             </td>
             <td>
-              <Link to="/projects/project1">UI Design</Link>
+              <Link to="/projects/Project1">UI Design</Link>
             </td>
             <td>
-              <Link to="/projects/project1">
+              <Link to="/projects/Project1">
                 <img
                   src="/ToolBox.png"
                   alt="profile-picture"
