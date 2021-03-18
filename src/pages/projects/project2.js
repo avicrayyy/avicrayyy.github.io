@@ -45,13 +45,12 @@ export default function Project2() {
             Filipinos. 16 Years in the Philippines, CLARA is Malaysia’s #1 skin
             and body centre boasting of numerous accolades.
           </p>
-          <p>
+          <p style={{ marginBottom: 40 }}>
             See website:{" "}
             <a
               href="https://www.claraaestheticnaturale.com/"
               target="_blank"
               className="project-link"
-              style={{ marginBottom: 40 }}
             >
               https://www.claraaestheticnaturale.com/
             </a>
