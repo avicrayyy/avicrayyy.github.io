@@ -15,15 +15,15 @@ export default function Projects() {
             <td>UI Design</td>
             <td>
               <img
-                src="/prfp.jpg"
+                src="/ToolBox.png"
                 alt="profile-picture"
-                width="32px"
+                width="21px"
                 style={{ marginRight: 12 }}
               />
               <img
-                src="/prfp.jpg"
+                src="/Vector-2.png"
                 alt="profile-picture"
-                width="32px"
+                width="21px"
                 style={{ marginRight: 12 }}
               />
             </td>
@@ -34,15 +34,15 @@ export default function Projects() {
             <td>Landing Page</td>
             <td>
               <img
-                src="/prfp.jpg"
+                src="/Toolbox.png"
                 alt="profile-picture"
-                width="32px"
+                width="21px"
                 style={{ marginRight: 12 }}
               />
               <img
-                src="/prfp.jpg"
+                src="/Vector-1.png"
                 alt="profile-picture"
-                width="32px"
+                width="21px"
                 style={{ marginRight: 12 }}
               />
             </td>
@@ -53,15 +53,15 @@ export default function Projects() {
             <td>Company Website</td>
             <td>
               <img
-                src="/prfp.jpg"
+                src="/Toolbox.png"
                 alt="profile-picture"
-                width="32px"
+                width="21px"
                 style={{ marginRight: 12 }}
               />
               <img
-                src="/prfp.jpg"
+                src="/Vector-1.png"
                 alt="profile-picture"
-                width="32px"
+                width="21px"
                 style={{ marginRight: 12 }}
               />
             </td>
@@ -72,15 +72,15 @@ export default function Projects() {
             <td>Mobile App</td>
             <td>
               <img
-                src="/prfp.jpg"
+                src="/Tools-1.png"
                 alt="profile-picture"
-                width="32px"
+                width="21px"
                 style={{ marginRight: 12 }}
               />
               <img
-                src="/prfp.jpg"
+                src="/mobile-alt.png"
                 alt="profile-picture"
-                width="32px"
+                width="12px"
                 style={{ marginRight: 12 }}
               />
             </td>
@@ -91,15 +91,21 @@ export default function Projects() {
             <td>Web &amp; Mobile App</td>
             <td>
               <img
-                src="/prfp.jpg"
+                src="/Tools-1.png"
                 alt="profile-picture"
-                width="32px"
+                width="21px"
                 style={{ marginRight: 12 }}
               />
               <img
-                src="/prfp.jpg"
+                src="/tv.png"
                 alt="profile-picture"
-                width="32px"
+                width="21px"
+                style={{ marginRight: 12 }}
+              />
+              <img
+                src="/mobile-alt.png"
+                alt="profile-picture"
+                width="12px"
                 style={{ marginRight: 12 }}
               />
             </td>
@@ -110,15 +116,15 @@ export default function Projects() {
             <td>Web App</td>
             <td>
               <img
-                src="/prfp.jpg"
+                src="/Tools-1.png"
                 alt="profile-picture"
-                width="32px"
+                width="21px"
                 style={{ marginRight: 12 }}
               />
               <img
-                src="/prfp.jpg"
+                src="/tv.png"
                 alt="profile-picture"
-                width="32px"
+                width="21px"
                 style={{ marginRight: 12 }}
               />
             </td>
@@ -129,15 +135,15 @@ export default function Projects() {
             <td>Company Website</td>
             <td>
               <img
-                src="/prfp.jpg"
+                src="/Toolbox.png"
                 alt="profile-picture"
-                width="32px"
+                width="21px"
                 style={{ marginRight: 12 }}
               />
               <img
-                src="/prfp.jpg"
+                src="/Vector-1.png"
                 alt="profile-picture"
-                width="32px"
+                width="21px"
                 style={{ marginRight: 12 }}
               />
             </td>
@@ -148,15 +154,15 @@ export default function Projects() {
             <td>Website</td>
             <td>
               <img
-                src="/prfp.jpg"
+                src="/Tools-1.png"
                 alt="profile-picture"
-                width="32px"
+                width="21px"
                 style={{ marginRight: 12 }}
               />
               <img
-                src="/prfp.jpg"
+                src="/Vector-1.png"
                 alt="profile-picture"
-                width="32px"
+                width="21px"
                 style={{ marginRight: 12 }}
               />
             </td>
@@ -167,15 +173,15 @@ export default function Projects() {
             <td>Website</td>
             <td>
               <img
-                src="/prfp.jpg"
+                src="/Tools-1.png"
                 alt="profile-picture"
-                width="32px"
+                width="21px"
                 style={{ marginRight: 12 }}
               />
               <img
-                src="/prfp.jpg"
+                src="/Vector-1.png"
                 alt="profile-picture"
-                width="32px"
+                width="21px"
                 style={{ marginRight: 12 }}
               />
             </td>
@@ -186,15 +192,15 @@ export default function Projects() {
             <td>Website</td>
             <td>
               <img
-                src="/prfp.jpg"
+                src="/Tools-1.png"
                 alt="profile-picture"
-                width="32px"
+                width="21px"
                 style={{ marginRight: 12 }}
               />
               <img
-                src="/prfp.jpg"
+                src="/Vector-1.png"
                 alt="profile-picture"
-                width="32px"
+                width="21px"
                 style={{ marginRight: 12 }}
               />
             </td>

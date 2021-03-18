@@ -94,3 +94,11 @@ tr {
 td {
     padding: 20px;
 }
+
+tr td:first-child {
+    background: -webkit-linear-gradient(left, rgba(51,164,227,1), rgba(89,114,205,1) 100%);
+}
+
+tr:hover {
+    background-color: #434343;
+}
