@@ -215,4 +215,7 @@
         display: block!important;
         height: inherit;
     }
+    .center-warn {
+        display: none;
+    }
 }
