@@ -206,6 +206,9 @@
     .intro-description {
         font-size: 14px;
     }
+    .intro-gif {
+        width: 80%;
+    }
     /* About */
     .content-two {
         flex-direction: column;

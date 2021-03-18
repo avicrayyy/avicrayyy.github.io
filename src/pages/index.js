@@ -24,6 +24,7 @@ export default function Home() {
         min-width="450px"
         width="50%"
         style={{ position: "absolute", zIndex: 1 }}
+        className="intro-gif"
       />
     </Layout>
   )
