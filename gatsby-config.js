@@ -5,7 +5,12 @@
  */
 
 module.exports = {
-  /* Your site config here */
+  siteMetadata: {
+    title: "David Domingo | Portfolio Website",
+    description:
+      "Software Engineer, Front-End Developer, UI/UX Designer personal website and portfolio site",
+    author: "David Domingo",
+  },
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -33,22 +38,6 @@ module.exports = {
       options: {
         name: `components`,
         path: `${__dirname}/src/components`,
-      },
-    },
-    `gatsby-plugin-sharp`,
-    `gatsby-transform-sharp`,
-    {
-      resolve: `gatsby-plugin-mdx`,
-      options: {
-        extensions: [`.md`, `.mdx`],
-        gatsbyRemarkPlugins: [
-          {
-            resolve: `gatsby-remark-images`,
-            otions: {
-              maxWidth: 1200,
-            },
-          },
-        ],
       },
     },
   ],
