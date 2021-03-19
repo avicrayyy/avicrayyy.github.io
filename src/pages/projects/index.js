@@ -190,22 +190,32 @@ export default function Projects() {
             </td>
           </tr>
           <tr>
-            <td>08</td>
-            <td>TomasinoWeb Recruitment Portal 2016</td>
-            <td>Website</td>
             <td>
-              <img
-                src="/Tools-1.png"
-                alt="profile-picture"
-                width="21px"
-                style={{ marginRight: 12 }}
-              />
-              <img
-                src="/Vector-1.png"
-                alt="profile-picture"
-                width="21px"
-                style={{ marginRight: 12 }}
-              />
+              <Link to="/projects/project8">08</Link>
+            </td>
+            <td>
+              <Link to="/projects/project8">
+                TomasinoWeb Recruitment Portal 2016
+              </Link>
+            </td>
+            <td>
+              <Link to="/projects/project8">Website</Link>
+            </td>
+            <td>
+              <Link to="/projects/project8">
+                <img
+                  src="/Tools-1.png"
+                  alt="profile-picture"
+                  width="21px"
+                  style={{ marginRight: 12 }}
+                />
+                <img
+                  src="/Vector-1.png"
+                  alt="profile-picture"
+                  width="21px"
+                  style={{ marginRight: 12 }}
+                />
+              </Link>
             </td>
           </tr>
           <tr>
