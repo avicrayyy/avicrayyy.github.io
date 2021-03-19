@@ -45,19 +45,20 @@ export default function Project2() {
         </div>
         <div>
           <p>
-            Gaea is a mobile app ideated during a hackathon centered on the
-            topic of environmental awareness. Essentially, the idea behind the
-            app is that users can report/ post natural calamities and other
-            environmental issues via the app.
+            Leggo is a social, crowd sourcing travel app that allows
+            backpackers, travellers, and locals to discover new things, and keep
+            track of happenings. Leggo also helps find recommended
+            establishments nearby!
           </p>
           <p>
-            I lead the development of the app, as the Lead Developer; along side
-            UI Designer, Mr. Rex Edrosa.
+            The app was created and ideated with fellow Google Student
+            Ambassadors, Rhan Candia and Mark Balmes, as an entry for a
+            hackathon held in the College of Saint Benilde, WhatTheHack2015.
           </p>
           <p style={{ marginBottom: 40 }}>
             Fork it on{" "}
             <a
-              href="https://github.com/avicrayyy/htc-gaea"
+              href="https://github.com/avicrayyy/WhatTheHack2015"
               target="_blank"
               className="project-link"
             >
