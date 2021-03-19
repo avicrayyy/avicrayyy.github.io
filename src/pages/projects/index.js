@@ -98,30 +98,38 @@ export default function Projects() {
             </td>
           </tr>
           <tr>
-            <td>04</td>
-            <td>Gaea</td>
-            <td>Mobile App</td>
             <td>
-              <img
-                src="/Tools-1.png"
-                alt="profile-picture"
-                width="21px"
-                style={{ marginRight: 12 }}
-              />
-              <img
-                src="/mobile-alt.png"
-                alt="profile-picture"
-                width="12px"
-                style={{ marginRight: 12 }}
-                className="mobile-ico"
-              />
+              <Link to="/projects/project4">04</Link>
+            </td>
+            <td>
+              <Link to="/projects/project4">Gaea</Link>
+            </td>
+            <td>
+              <Link to="/projects/project4">Mobile App</Link>
+            </td>
+            <td>
+              <Link to="/projects/project4">
+                <img
+                  src="/Tools-1.png"
+                  alt="profile-picture"
+                  width="21px"
+                  style={{ marginRight: 12 }}
+                />
+                <img
+                  src="/mobile-alt.png"
+                  alt="profile-picture"
+                  width="12px"
+                  style={{ marginRight: 12 }}
+                  className="mobile-ico"
+                />
+              </Link>
             </td>
           </tr>
           <tr>
-            <td>05</td>
-            <td>Leggo</td>
-            <td>Web &amp; Mobile App</td>
-            <td>
+            <td><Link to="/projects/project5">05</Link></td>
+            <td><Link to="/projects/project5">Leggo</Link></td>
+            <td><Link to="/projects/project5">Web &amp; Mobile App</Link></td>
+            <td><Link to="/projects/project5">
               <img
                 src="/Tools-1.png"
                 alt="profile-picture"
@@ -140,7 +148,7 @@ export default function Projects() {
                 width="12px"
                 style={{ marginRight: 12 }}
                 className="mobile-ico"
-              />
+              /></Link>
             </td>
           </tr>
           <tr>
