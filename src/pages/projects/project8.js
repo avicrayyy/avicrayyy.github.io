@@ -13,7 +13,7 @@ export default function Project1() {
           <div className="tag-group">
             <div className="tag tag-post">
               <img
-                src="/Tool-1.png"
+                src="/Tools-1.png"
                 alt="profile-picture"
                 width="21px"
                 style={{ marginRight: 12 }}
